@@ -127,7 +127,7 @@ pam-auth-update
   ```
   systemctl restart nscd.service
   ```  
-  برای از اضافه شدن یوزر به دیتا بیس میتوان
+  برای برسی اضافه شدن یوزر به دیتا بیس میتوان
   ```
   getent passwd  
  ```   
